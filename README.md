@@ -1,4 +1,4 @@
-# UC03 USB-UART Bridge
+# Lagrange USB-UART Bridge
 
 An open-source USB CDC-ACM to UART bridge built around the Renesas RA2L2 MCU.
 
