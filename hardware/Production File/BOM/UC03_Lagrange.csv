@@ -1,0 +1,16 @@
+Designator,Name,Description,Footprint,LibRef,Quantity
+
+"C1","2.2uF","Ceramic MLCC CAP","CAPC1608X90N_2","CAP_MLCC","1"
+"C2, C4, C6","0.1uF","Ceramic MLCC CAP","CAPC1608X90N_2","CAP_MLCC","3"
+"C3, C5, C7","4.7uF","Ceramic MLCC CAP","CAPC1608X90N_2","CAP_MLCC","3"
+"D1","TPD2E2U06-Q1","Automotive Dual-Channel High-Speed ESD Protection Device","SC70_3","TPD2E2U06-Q1","1"
+"D2, D3, D4","GRN","CHIP LED GREEN","LED-0603-GREEN","LED_GREEN","3"
+"J1","629722000214","WR-COM USB 2.0 Type C Receptacle Horizontal SMT","629722000214","629722000214","1"
+"P1","JST PA","Header, 4-Pin","2053380004","Header 4","1"
+"R1","2K","Chip FIlm Resistor","RESC1608X55N_2","R_Film_Chip","1"
+"R2, R3, R5, R6, R7, R8","5.1K","Chip FIlm Resistor","RESC1608X55N_2","R_Film_Chip","6"
+"R4","1M","Chip FIlm Resistor","RESC1608X55N_2","R_Film_Chip","1"
+"R9, R10","22R","Chip FIlm Resistor","RESC1608X55N_2","R_Film_Chip","2"
+"U1","RAA2144034GP3","Low Iq Current LDO Regulator with Fixed 3.3V Output","SOT23-5","RAA2144034GP3","1"
+"U2","R7FA2L2074CNH","Ultra low power 48 MHz Arm¢ç Cortex¢ç-M23 core, up to 128-KB code flash memory, 16-KB SRAM, USB 2.0 Full-Speed
+module (USBFS), USB Type-C¢ç interface (USBCC), 12-bit A/D Converter, Security and Safety features","ALLEGRO QFN-32 ET","R7FA2L2074CNH","1"
