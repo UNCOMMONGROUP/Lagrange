@@ -1,0 +1,30 @@
+# --- e2 studio / GCC build output ---
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.srec
+*.hex
+
+# --- Eclipse / e2 studio workspace metadata ---
+.metadata/
+.settings/
+*.launch
+RemoteSystemsTempFiles/
+
+# --- Altium ---
+History/
+Project Logs*/
+__Previews/
+*.SchDocPreview
+*.PcbDocPreview
+*.Net
+*.PrjPcbStructure
+*.~(*)
+
+# --- OS clutter ---
+.DS_Store
+Thumbs.db
+desktop.ini
